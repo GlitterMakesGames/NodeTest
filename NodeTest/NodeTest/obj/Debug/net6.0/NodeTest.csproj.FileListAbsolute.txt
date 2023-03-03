@@ -1,0 +1,15 @@
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\obj\Debug\net6.0\NodeTest.csproj.AssemblyReference.cache
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\obj\Debug\net6.0\NodeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\obj\Debug\net6.0\NodeTest.AssemblyInfoInputs.cache
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\obj\Debug\net6.0\NodeTest.AssemblyInfo.cs
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\obj\Debug\net6.0\NodeTest.csproj.CoreCompileInputs.cache
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\bin\Debug\net6.0\NodeTest.exe
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\bin\Debug\net6.0\NodeTest.deps.json
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\bin\Debug\net6.0\NodeTest.runtimeconfig.json
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\bin\Debug\net6.0\NodeTest.dll
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\bin\Debug\net6.0\NodeTest.pdb
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\obj\Debug\net6.0\NodeTest.dll
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\obj\Debug\net6.0\refint\NodeTest.dll
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\obj\Debug\net6.0\NodeTest.pdb
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\obj\Debug\net6.0\NodeTest.genruntimeconfig.cache
+C:\Users\Delaina\source\repos\NodeTest\NodeTest\obj\Debug\net6.0\ref\NodeTest.dll
